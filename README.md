@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is Iftiazur Rahman. I am a python developer and  Machine Learning/ Computer Vision enthusiast with basic knowlegde and experience of mobile app development using Flutter and Google Cloud Platform.</h2>
+<h2 align="left">Hi 👋! My name is Iftiazur Rahman. I am a python developer and  Machine Learning/ Computer Vision enthusiast with basic knowlegde and experience of mobile app development using Flutter and hands-on cloud experience of Google Cloud Platform.</h2>
 
 ###
 
